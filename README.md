@@ -1,10 +1,12 @@
-# Getting Started with Create React App
+# Amazon Clone 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A react web app that tries to imitate the desktop web version of amazon site, you can add items to the basket, delete them and sign in user authentification with Firebase.
 
-## Available Scripts
+## Demo Link
 
-In the project directory, you can run:
+[Link](https://clone-d42b2.web.app/)
+
+<hr/>
 
 ### `npm start`
 
