@@ -3,10 +3,10 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Link
 } from "react-router-dom";
 import Header from './components/header/Header';
 import Home from './components/home/Home'
+import Checkout from './components/checkout/Checkout';
 
 
 function App() {
@@ -15,7 +15,7 @@ function App() {
     <div className="App">
       <Switch>
         <Route path="/checkout">
-      <h1>Checkout</h1>
+      <Checkout/>
         </Route>
         <Route path="/login">
           <h1>Login</h1>
