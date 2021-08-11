@@ -1,10 +1,10 @@
 # Amazon Clone 
 
-A react web app that tries to imitate the desktop web version of amazon site, you can add items to the basket, delete them and sign in user authentification with Firebase.
+A react web app that tries to imitate the desktop web version of twitter site, you can tweet and get some information from users .
 
 ## Demo Link
 
-[Link](https://clone-d42b2.web.app/)
+[Link](https://twitter-clone-abb4f.web.app/)
 
 <hr/>
 
