@@ -1,12 +1,17 @@
 # Amazon Clone 
 
-A react web app that tries to imitate the desktop web version of twitter site, you can tweet and get some information from users .
+A react web app that tries to imitate the desktop web version of amazon site, you can add items to the basket, delete them and sign in user authentification with Firebase.
 
-## Demo Link
+## Demo 
 
-[Link](https://twitter-clone-abb4f.web.app/)
+[Link](https://clone-d42b2.web.app/)
+# Getting Started with Create React App
 
-<hr/>
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+In the project directory, you can run:
 
 ### `npm start`
 
